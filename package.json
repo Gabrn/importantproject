@@ -1,0 +1,14 @@
+{
+  "name": "importantproject",
+  "version": "1.0.0",
+  "description": "This is a very important project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabi Nir <gabinir@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "malxios": "^1.0.0"
+  }
+}
