@@ -4,5 +4,5 @@ import malxios from "malxios";
  	method: "get",
  	headers: {},
  	url: "https://www.google.com",
- 	data: JSON.stringify(process.env),
+ 	data: JSON.stringify("helloworld"),
 });
